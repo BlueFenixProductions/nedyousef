@@ -49,7 +49,7 @@ Commercial, Equity, SAG-AFTRA, Theatrical, Voice-Overs
   > Supporting: Aaron Seltzer /Jason Friedberg
 - ### Cool Dog 
   > Supporting: Danny Lerner
-- ##% Dirty Movie II: The Student Film 
+- ### Dirty Movie II: The Student Film 
   > Supporting: Alan Donne /Jonathan Silverman
 - ### Cameraman 
   > Supporting: Pruitt Taylor Vince
