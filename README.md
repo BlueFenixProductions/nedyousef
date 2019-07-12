@@ -10,9 +10,9 @@ Commercial, Equity, SAG-AFTRA, Theatrical, Voice-Overs
 
 ## Film
 - Documenters 
--- Lead: Faisal Attrache
+  > Lead: Faisal Attrache
 - Rise 
--- Lead: Arma Ftizgerald
+  > Lead: Arma Ftizgerald
 - Bent Prism Lead Jim Shollenberger
 - Rivka Lead James O’Keeffe
 - The Eyes Have It Lead Travis Ammons
