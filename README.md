@@ -96,3 +96,30 @@ Commercial, Equity, SAG-AFTRA, Theatrical, Voice-Overs
   > Featured<br/>Michael Cuesta / Starz FX
 - ### Cheerleader Camp
   > Featured<br/>Adam Green / MTV
+
+## Commercial
+- ### HEB
+  >Principle<br/>The Richards Group
+- ### Doritos / Pepsi Max
+  > Principle<br/>Dean Film & Video
+- ### Chevy
+  > Principle<br/>Campbell-Ewald Advertising
+- ### Subway / Saints
+  > Principle<br/>Ad Agency
+- ### Blue Cross-Blue Shield
+  > Principle<br/>Digital FX
+- ### Kirby Kelly
+  > Principle<br/>Fairfield Studios, LLC
+- ### Baby Bottle Pop
+  > Featured<br/>Flint Steel
+- ### Archer Daniel Midland
+  > Featured<br/>Delta Blues, LLC
+- ### Vicks
+  > Featured<br/>Station Film
+- ### Reliant Energry
+  > Featured<br/>The Richards Group
+- ### VISA
+  > Featured<br/>MJZ. LLC
+- ### McBride & Collier
+  > Featured<br/>Digital FX
+  
