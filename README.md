@@ -135,6 +135,5 @@ Commercial, Equity, SAG-AFTRA, Theatrical, Voice-Overs
   
 ## Miscellaneous Crew 
 - ### Homeland
-  > dialect coach: Arabic. 
-  > Micheal Cuesta
+  > dialect coach: Arabic<br/>Micheal Cuesta
   
