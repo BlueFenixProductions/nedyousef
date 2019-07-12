@@ -1,4 +1,4 @@
-# Actor, Fight Choreographer, Stunts
+# Actor, Fight Director, Stunts
 
 ## Represented by:
 - Landrum Arts LA (LA)
