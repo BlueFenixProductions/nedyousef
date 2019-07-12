@@ -10,7 +10,7 @@ Commercial, Equity, SAG-AFTRA, Theatrical, Voice-Overs
 
 ## Film
 - ### Documenters 
-  > Lead: Faisal Attrache
+  > Lead<br/>Faisal Attrache
 - ### Rise 
   > Lead: Arma Ftizgerald
 - ### Bent Prism
