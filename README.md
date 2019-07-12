@@ -133,7 +133,8 @@ Commercial, Equity, SAG-AFTRA, Theatrical, Voice-Overs
 - ### DuPont Safety Video
   > Lead<br/>Motion Picture Group
   
-## Miscellaneous Crew
-<table class="table">
-  <tr><td><strong>Homeland</strong></td><td>dialect coach: Arabic</td><td>Micheal Cuesta</td></tr></table>
+## Miscellaneous Crew 
+- ### Homeland
+  > dialect coach: Arabic. 
+  > Micheal Cuesta
   
