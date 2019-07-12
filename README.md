@@ -69,3 +69,30 @@ Commercial, Equity, SAG-AFTRA, Theatrical, Voice-Overs
   > Featured<br/>Dwight H. Little
 - ### A Mighty Heart 
   > Featured<br/>Michael Winterbottom
+
+
+## Television
+- NCIS: New Orleans
+  > Guest Star<br/>Gordon Lonsdale
+- Common Law
+  > Recurring<br/>Stephen Sirjik / USA
+- Treme
+  > Guest Star<br/>Agnieszka Holland / HBO
+- Memphis Beat
+  > Guest Star<br/>Aaron Lipstadt / TNT
+- Army Wives
+  > Guest Star<br/>Joanna Kerns / Lifetime
+- Hollywood Heights
+  > Recurring<br/>Owen Renfroe / Nick@Nite
+- Arachnoquake
+  > Supporting<br/>Griff Furst / SyFy
+- Ricochet
+  > Supporting<br/>Nick Gomez / TNT
+- Unearthed
+  > Featured<br/>Tripp Reed / SyFy
+- 51
+  > Featured<br/>Jason Connery / SyFy
+- Homeland
+  > Featured<br/>Michael Cuesta / Starz FX
+- Cheerleader Camp
+  > Featured<br/>Adam Green / MTV
