@@ -9,11 +9,12 @@ Commercial, Equity, SAG-AFTRA, Theatrical, Voice-Overs
 Commercial, Equity, SAG-AFTRA, Theatrical, Voice-Overs
 
 ## Film
-- Documenters 
+- ### Documenters 
   > Lead: Faisal Attrache
-- Rise 
+- ### Rise 
   > Lead: Arma Ftizgerald
-- Bent Prism Lead Jim Shollenberger
+- ### Bent Prism
+  > Lead: Jim Shollenberger
 - Rivka Lead James O’Keeffe
 - The Eyes Have It Lead Travis Ammons
 - A Good Knight Lead Mike Mayhall
