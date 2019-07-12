@@ -134,6 +134,5 @@ Commercial, Equity, SAG-AFTRA, Theatrical, Voice-Overs
   > Lead<br/>Motion Picture Group
   
 ## Miscellaneous Crew
-- ### Homeland
-  > dialect coach: Arabic<br/>Micheal Cuesta
+#### Homeland | dialect coach: Arabic | Micheal Cuesta
   
