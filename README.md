@@ -12,60 +12,60 @@ Commercial, Equity, SAG-AFTRA, Theatrical, Voice-Overs
 - ### Documenters 
   > Lead<br/>Faisal Attrache
 - ### Rise 
-  > Lead: Arma Ftizgerald
+  > Lead<br/>Arma Ftizgerald
 - ### Bent Prism
-  > Lead: Jim Shollenberger
+  > Lead<br/>Jim Shollenberger
 - ### Rivka 
-  > Lead: James O’Keeffe
+  > Lead<br/>James O’Keeffe
 - ### The Eyes Have It 
-  > Lead: Travis Ammons
+  > Lead<br/>Travis Ammons
 - ### A Good Knight 
-  > Lead: Mike Mayhall
+  > Lead<br/>Mike Mayhall
 - ### The Doppler Effect 
-  > Lead: Adam Roth
+  > Lead<br/>Adam Roth
 - ### My Heart 
-  > Supporting: Christine Chen
+  > Supporting<br/>Christine Chen
 - ### Shock and Awe 
-  > Supporting: Rob Reiner
+  > Supporting<br/>Rob Reiner
 - ### Indecent Justice 
-  > Supporting: Eric Williamson
+  > Supporting<br/>Eric Williamson
 - ### Man Down 
-  > Supporting: Dito Montiel
+  > Supporting<br/>Dito Montiel
 - ### Empire State 
-  > Supporting: Dito Montiel
+  > Supporting<br/>Dito Montiel
 - ### Les Maîtres du suspense 
-  > Supporting: Stéphane Lapointe
+  > Supporting<br/>Stéphane Lapointe
 - ### Sabotage 
-  > Supporting: David Ayer
+  > Supporting<br/>David Ayer
 - ### Flag of My Father 
-  > Supporting: Rodney Ray
+  > Supporting<br/>Rodney Ray
 - ### The Lucky One 
-  > Supporting: Scott Hicks
+  > Supporting<br/>Scott Hicks
 - ### The Philly Kid 
-  > Supporting: Jason Connery
+  > Supporting<br/>Jason Connery
 - ### Hypnotize Me
-  > Supporting: Bear Badeaux / Crystal Rivers
+  > Supporting<br/>Bear Badeaux / Crystal Rivers
 - ### Vampires Suck 
-  > Supporting: Aaron Seltzer /Jason Friedberg
+  > Supporting<br/>Aaron Seltzer /Jason Friedberg
 - ### Cool Dog 
-  > Supporting: Danny Lerner
+  > Supporting<br/>Danny Lerner
 - ### Dirty Movie II: The Student Film 
-  > Supporting: Alan Donne /Jonathan Silverman
+  > Supporting<br/>Alan Donne /Jonathan Silverman
 - ### Cameraman 
-  > Supporting: Pruitt Taylor Vince
+  > Supporting<br/>Pruitt Taylor Vince
 - ### Aztec Warrior 
-  > Supporting: Scott Sanders
+  > Supporting<br/>Scott Sanders
 - ### Contraband 
-  > Featured: Baltasar Kormakur
+  > Featured<br/>Baltasar Kormakur
 - ### I Ran Against Us 
-  > Featured: N.T. Bullock
+  > Featured<br/>N.T. Bullock
 - ### Re-Kill 
-  > Featured: Valeri Milev
+  > Featured<br/>Valeri Milev
 - ### Way of War 
-  > Featured: John Carter
+  > Featured<br/>John Carter
 - ### Imbroglio 
-  > Featured: Jim Shollenberger
+  > Featured<br/>Jim Shollenberger
 - ### Tekken 
-  > Featured: Dwight H. Little
+  > Featured<br/>Dwight H. Little
 - ### A Mighty Heart 
-  > Featured: Michael Winterbottom
+  > Featured<br/>Michael Winterbottom
