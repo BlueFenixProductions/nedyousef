@@ -72,27 +72,27 @@ Commercial, Equity, SAG-AFTRA, Theatrical, Voice-Overs
 
 
 ## Television
-- NCIS: New Orleans
+- ### NCIS: New Orleans
   > Guest Star<br/>Gordon Lonsdale
-- Common Law
+- ### Common Law
   > Recurring<br/>Stephen Sirjik / USA
-- Treme
+- ### Treme
   > Guest Star<br/>Agnieszka Holland / HBO
-- Memphis Beat
+- ### Memphis Beat
   > Guest Star<br/>Aaron Lipstadt / TNT
-- Army Wives
+- ### Army Wives
   > Guest Star<br/>Joanna Kerns / Lifetime
-- Hollywood Heights
+- ### Hollywood Heights
   > Recurring<br/>Owen Renfroe / Nick@Nite
-- Arachnoquake
+- ### Arachnoquake
   > Supporting<br/>Griff Furst / SyFy
-- Ricochet
+- ### Ricochet
   > Supporting<br/>Nick Gomez / TNT
-- Unearthed
+- ### Unearthed
   > Featured<br/>Tripp Reed / SyFy
-- 51
+- ### 51
   > Featured<br/>Jason Connery / SyFy
-- Homeland
+- ### Homeland
   > Featured<br/>Michael Cuesta / Starz FX
-- Cheerleader Camp
+- ### Cheerleader Camp
   > Featured<br/>Adam Green / MTV
