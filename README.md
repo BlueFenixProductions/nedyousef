@@ -123,3 +123,17 @@ Commercial, Equity, SAG-AFTRA, Theatrical, Voice-Overs
 - ### McBride & Collier
   > Featured<br/>Digital FX
   
+## Animation/Voice Work
+- ### Spartan Total Warriors
+  > Motion Capture Actor<br/>Mailto, Sony- UK
+  
+## Industrial
+- ### HP Invent
+  > Lead<br/>The Production Companies
+- ### DuPont Safety Video
+  > Lead<br/>Motion Picture Group
+  
+## Miscellaneous Crew
+- ### Homeland
+  > dialect coach: Arabic<br/>Micheal Cuesta
+  
