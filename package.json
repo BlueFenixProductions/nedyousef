@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "@tailwindcss/typography": "^0.5.11",
+    "autoprefixer": "^10.4.19",
+    "cssnano": "^6.1.2",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.1"
+  },
+  "scripts": {
+    "dev": "jekyll s",
+    "build": "JEKYLL_ENV=production NODE_ENV=production jekyll build"
+  }
+}
