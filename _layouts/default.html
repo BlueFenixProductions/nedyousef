@@ -7,6 +7,8 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/main.css?=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -14,10 +16,19 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1 class="text-5xl">{{ site.title | default: site.github.repository_name }}</h1>
+        <br/>
+        <div class="py-4">
+          <a href="/assets/NED_YOUSEF_REEL.mov" class="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0 bg-gradient-to-br from-green-400 to-blue-600 group-hover:from-green-400 group-hover:to-blue-600 hover:text-white text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-800"> View my Reel <span class="mdi mdi-filmstrip"></span></a>
+        </div>
+        <br/>
+        <div>
+          <a href="/assets/Ned_Yousef_2018-19_Stunt_Rez.pdf" class="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0 bg-gradient-to-br from-green-400 to-blue-600 group-hover:from-green-400 group-hover:to-blue-600 hover:text-white text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-800"> Stunt Resume <span class="mdi mdi-file-account-outline"></span></a>
+        </div>
+        <br/>
         
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        <img src="{{site.logo | relative_url}}" alt="Logo" class="h-full w-full object-cover object-center group-hover:opacity-75 rounded-md"/>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -27,7 +38,7 @@
       {{ content }}
 
       </section>
-      <footer>
+      <footer class="text-center">
         Booking: <a href="mailto:{{ site.email }}">{{ site.email }} </a><br/> 
         &copy; {{ site.time | date: '%Y' }} Ned Yousef
       </footer>

@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 logo: /photo.jpeg
 title: Ned Yousef
 email: booking@nedyousef.com
+plugins:
+  - jekyll-postcss
