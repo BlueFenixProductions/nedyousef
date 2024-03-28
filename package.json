@@ -1,4 +1,12 @@
 {
+  "name": "nedyousef",
+  "version": "3.2.0",
+  "description": "Digital production for Ned Yousef - Certified Fight Teacher, Fight Director",
+  "main": "index.md",
+  "repository": "https://github.com/ChrisPelatari/nedyousef.git",
+  "author": "Chris Pelatari <chris@bluefenix.net>",
+  "license": "MIT",
+  "private": true,
   "dependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/typography": "^0.5.11",
